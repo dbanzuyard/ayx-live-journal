@@ -1,2 +1,14 @@
 # ayx-live-journal
-HTML page archive and documentation
+
+页面文件归档说明
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
